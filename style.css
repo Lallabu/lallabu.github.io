@@ -1,13 +1,14 @@
 body {
-    background-color: bisque;
-    border-radius: 5em;
+    padding: 3em;
+    border-radius: 3em;
     box-shadow: 2px 3px 20px black, 0 0 60px #8a4d0f inset;
     background: #fffef0;
     filter: url(#wavy2);
-    font-family: "Lucida Handwriting"
+    font-family: "Lucida Handwriting";
 }
 
 h1 {
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 3em;
+    padding-left: 0.5em;
 }
